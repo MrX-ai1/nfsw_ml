@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+pillow
+pydantic
+torch
+python-multipart
+streamlit
